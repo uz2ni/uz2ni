@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   <p>
     안녕하세요. 끈기와 노력으로 무럭무럭 성장중인 백엔드 개발자 송유진 입니다.🌱<br>
     <br><br>
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> &nbsp
-    <img src="https://img.shields.io/badge/Tech Blog-EF5734?style=flat-square&logo=Bloglovin&logoColor=white"> &nbsp
+    <a href="dbwlsdlqh12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a> &nbsp
+    <a href="https://yuja-kong.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-EF5734?style=flat-square&logo=Bloglovin&logoColor=white"></a> &nbsp
   </p>
   <br>
   <h3>Tech Stack 🛠</h3>
