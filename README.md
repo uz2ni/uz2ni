@@ -1,20 +1,4 @@
 
-<!--
-**uz2ni/uz2ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div align="center">
   <h1>Welcome To Uz2ni Github 🍋</h1>
   <br><br>
@@ -25,7 +9,7 @@ Here are some ideas to get you started:
   <p>
     안녕하세요. 끈기와 노력으로 무럭무럭 성장중인 백엔드 개발자 송유진 입니다.🌱<br>
     <br><br>
-    <a href="dbwlsdlqh12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a> &nbsp
+    <a href="https://dbwlsdlqh12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a> &nbsp
     <a href="https://yuja-kong.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-EF5734?style=flat-square&logo=Bloglovin&logoColor=white"></a> &nbsp
   </p>
   <br>
